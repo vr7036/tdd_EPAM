@@ -1,2 +1,0 @@
-# tdd
-for epam
